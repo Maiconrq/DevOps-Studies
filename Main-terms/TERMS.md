@@ -18,7 +18,7 @@
 
 9. **Code Integrity**: the practice of checking the quality of project code, often through automated checks using code analysis tools. This allows problems in the code to be identified quickly and ensures the quality of the software.
 
-10. **Configuration Managementv**: the practice of managing system configurations consistently and controlled. This allows systems to be configured correctly and standardized, which is important for ensuring the integrity and performance of systems.
+10. **Configuration Management**: the practice of managing system configurations consistently and controlled. This allows systems to be configured correctly and standardized, which is important for ensuring the integrity and performance of systems.
 
 11. **Microservices**: a software architecture in which the application is divided into small, independent services, each responsible for a specific task. This allows the application to be scaled and maintained more efficiently.
 
