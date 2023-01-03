@@ -1,20 +1,14 @@
-# DevOps Studies
+# DevOps 101
 
-Este é um repositório de estudos sobre DevOps, com o objetivo de reunir materiais e recursos úteis para aprender sobre essa área.
+Welcome to our DevOps study repository! Our goal is to provide a collection of materials and resources to help you learn everything there is to know about this constantly evolving field.
 
-Conteúdo:
+## What's inside?
 
-Pasta "Conceitos": contém artigos e resumos sobre os principais conceitos de DevOps, como integração contínua, entrega contínua, monitoramento em tempo real, entre outros.
+- **Concepts:** articles and summaries about the main DevOps concepts, such as continuous integration, continuous delivery and real-time monitoring.
+- **Tools:** a list of the main tools used in DevOps, with links to official websites and documentation.
+- **Examples:** examples of code and configuration files related to DevOps, such as continuous integration scripts and container definition files.
+- **Links:** a list of useful links for more learning resources about DevOps, such as tutorials, books and online communities.
 
-Pasta "Ferramentas": contém uma lista das principais ferramentas utilizadas em DevOps, com links para sites oficiais e documentação.
+## Want to contribute?
 
-Pasta "Exemplos": contém exemplos de código e arquivos de configuração relacionados a DevOps, como scripts de integração contínua e arquivos de definição de container.
-
-Pasta "Links": contém uma lista de links úteis para mais recursos de aprendizado sobre DevOps, como tutoriais, livros e comunidades online.
-Como contribuir:
-
-Se você deseja adicionar mais materiais ou recursos a este repositório, basta criar uma nova issue ou enviar um pull request.
-
-Verifique se o material que você deseja adicionar não está já presente no repositório.
-Certifique-se de seguir a estrutura de pastas existente e de adicionar o material na pasta apropriada.
-Este é um projeto aberto e toda a contribuição é bem-vinda!
+If you have something to add to this repository, simply create a new issue or submit a pull request. Make sure the material you want to add is not already present and follow the existing folder structure. All contributions are welcome!
