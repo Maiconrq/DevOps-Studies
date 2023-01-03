@@ -1,17 +1,26 @@
 # Devops Main Terms
 
-Aqui estão alguns termos importantes para estudar no contexto de DevOps:
+1. **Continuous Integration (CI)**: the practice of integrating project code frequently, often several times per day. This allows errors to be detected and corrected quickly.
 
-Integração contínua (CI): é a prática de integrar o código de um projeto de maneira frequente, geralmente várias vezes por dia. Isso permite que os erros sejam detectados e corrigidos rapidamente.
+2. **Continuous Delivery (CD)**: the practice of releasing software updates frequently and automatically. This allows updates to be implemented quickly and with less effort.
 
-Entrega contínua (CD): é a prática de lançar atualizações de software de maneira frequente e automatizada. Isso permite que as atualizações sejam implementadas rapidamente e com menos esforço.
+3. **Real-time Monitoring**: the practice of monitoring systems in real-time to detect problems or failures. This allows problems to be identified and corrected quickly.
 
-Monitoramento em tempo real: é a prática de monitorar os sistemas em tempo real para detectar problemas ou falhas. Isso permite que os problemas sejam identificados e corrigidos rapidamente.
+4. **Containers**: ways of packaging and distributing applications in a portable manner. This allows applications to run consistently in any environment.
 
-Containers: são formas de empacotar e distribuir aplicativos de maneira portátil. Isso permite que os aplicativos sejam executados em qualquer ambiente de forma consistente.
+5. **Container Orchestration**: the practice of managing and scheduling containers in a cluster of computers. This allows applications to run efficiently and scalably.
 
-Orquestração de containers: é a prática de gerenciar e escalonar containers em um cluster de computadores. Isso permite que os aplicativos sejam executados de maneira eficiente e escalável.
+6. **Infrastructure as Code (IaC)**: the practice of managing IT infrastructure configuration as code, allowing it to be versioned and controlled in a similar way to application code.
 
-Infraestrutura como código (IaC): é a prática de gerenciar a configuração da infraestrutura de TI como código, permitindo que ela seja versionada e controlada de maneira semelhante ao código de aplicativo.
+7. **Application Lifecycle Management (ALM)**: the practice of managing the entire lifecycle of an application, from development to release and maintenance. This includes continuous integration, continuous delivery, real-time monitoring, and other DevOps practices.
 
-Integridade de ciclo de vida (ALM): é a prática de gerenciar todo o ciclo de vida de um aplicativo, desde o desenvolvimento até o lançamento e manutenção. Isso inclui a integração contínua, a entrega contínua, o monitoramento em tempo real e outras práticas de DevOps.
+8. **Automated Testing**: software tests that are run automatically, allowing the software to be checked for proper functioning quickly and consistently.
+
+9. **Code Integrity**: the practice of checking the quality of project code, often through automated checks using code analysis tools. This allows problems in the code to be identified quickly and ensures the quality of the software.
+
+10. **Configuration Managementv**: the practice of managing system configurations consistently and controlled. This allows systems to be configured correctly and standardized, which is important for ensuring the integrity and performance of systems.
+
+11. **Microservices**: a software architecture in which the application is divided into small, independent services, each responsible for a specific task. This allows the application to be scaled and maintained more efficiently.
+
+12. **Cloud**: the use of IT services provided by a third-party company through the internet. This allows systems to run more efficiently and scalably, as computing resources are allocated dynamically as needed.
+
